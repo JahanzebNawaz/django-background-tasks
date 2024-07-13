@@ -33,9 +33,8 @@ Note: this version is compatible with django >=4.0 as the the providing_arg were
 
 Installation:
 
-````
-pip install   git+https://github.com/JahanzebNawaz/django-background-tasks.git@master
-````
+  pip install   git+https://github.com/JahanzebNawaz/django-background-tasks.git@master
+
 
 Docs
 ====
