@@ -31,6 +31,12 @@ There are two parts to using background tasks:
 
 Note: this version is compatible with django >=4.0 as the the providing_arg were removed from django 4.0 onwards
 
+Installation:
+
+````
+pip install   git+https://github.com/JahanzebNawaz/django-background-tasks.git@master
+````
+
 Docs
 ====
 See `Read the docs`_.
