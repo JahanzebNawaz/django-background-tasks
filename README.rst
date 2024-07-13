@@ -29,6 +29,7 @@ There are two parts to using background tasks:
 - creating the task functions and registering them with the scheduler
 - setup a cron task (or long running process) to execute the tasks
 
+Note: this version is compatible with django >=4.0 as the the providing_arg were removed from django 4.0 onwards
 
 Docs
 ====
@@ -39,7 +40,7 @@ See `Read the docs`_.
 Donations
 ========= 
 
-``django-background-tasks`` is free software. If you find it useful and would like to give back, please consider to make a donation using Bitcoin_ or Paypal_. Thank you!
+``django-background-tasks`` is free software. If you find it useful and would like to give back, please consider to make a donation using ETH_ or Paypal_. Thank you!
 
-.. _Bitcoin: https://blockchain.info/payment_request?address=34vD9fADYX9QAcMfJUB4c2pYd19SG2toZ9
-.. _PayPal: https://www.paypal.me/arteriagmbh
+.. _ETH: https://metamask.app.link/send/0x8CbA5b300E347619F3b75C1c0Dd30c707C45f9Ef@1?value=1e16
+.. _PayPal: https://www.paypal.me/mrjahanzeb
